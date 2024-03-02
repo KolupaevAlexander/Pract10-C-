@@ -1,0 +1,5 @@
+﻿  Pract10.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\st310-05\Desktop\kolupaev\C++\Pract10\Pract10.cpp(191,8): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\st310-05\Desktop\kolupaev\C++\Pract10\Pract10.cpp(191,8): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  Pract10.vcxproj -> C:\Users\st310-05\Desktop\kolupaev\C++\Pract10\x64\Debug\Pract10.exe

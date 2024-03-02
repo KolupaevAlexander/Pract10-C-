@@ -1,0 +1,3 @@
+﻿  Inherit.cpp
+C:\Users\st310-05\Desktop\kolupaev\C++\Inherit\Inherit.cpp(18,12): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+  Inherit.vcxproj -> C:\Users\st310-05\Desktop\kolupaev\C++\Inherit\x64\Debug\Inherit.exe
